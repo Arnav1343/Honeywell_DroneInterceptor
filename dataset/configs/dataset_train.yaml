@@ -1,0 +1,8 @@
+path: ./Dataset_Fixed
+train: train/images
+val: val/images
+nc: 3
+names:
+  0: drone
+  1: bird
+  2: helicopter

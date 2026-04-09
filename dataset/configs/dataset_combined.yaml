@@ -1,0 +1,13 @@
+# Combined RGB + Thermal dataset
+path: .
+train:
+  - Dataset_Fixed/train/images
+  - Dataset_Thermal/train/images
+val:
+  - Dataset_Fixed/val/images
+  - Dataset_Thermal/val/images
+nc: 3
+names:
+  0: drone
+  1: bird
+  2: helicopter

@@ -1,0 +1,8 @@
+# Zero-shot evaluation only — never use for training
+path: ./Dataset/dota-v1
+test: images
+nc: 3
+names:
+  0: drone
+  1: bird
+  2: helicopter
