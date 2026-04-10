@@ -1,7 +1,6 @@
 # Honeywell Drone Interceptor — Detection Dataset
 
 > Multi-class aerial object detection for autonomous drone interception systems.  
-> Built for the Honeywell DP5 project.
 
 ---
 
