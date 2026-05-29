@@ -1,4 +1,4 @@
-# Honeywell Drone Interceptor — Detection Dataset
+# Drone Interceptor — Detection Dataset
 
 > Multi-class aerial object detection for autonomous drone interception systems.  
 
